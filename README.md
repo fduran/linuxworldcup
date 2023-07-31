@@ -36,6 +36,14 @@ It's free. (I'll be happy if you <a href="https://www.buymeacoffee.com/sadserver
 
 There are no guaranteed material prizes.
 
+## Timeline
+
+- Until 2023-07-31: Deadline to <a href="https://linuxworldcup.com/">sign up for LWC</a>
+- Until 2023-08-13: (If your email in the LWC form is not a SadServers account): Deadline to create an account in SadServers with the same email.
+- Until ? (TBA): Deadline to optionally update your LWC information in SadServers, namely "alias" (public information to show in rankings, like handle, name or email), "time zone" and "team name".
+- ? (TBA) Qualifier challenge: One not-so-hard scenario to pass in order to qualify for the final scenarios. Window of 4 hours (starting at three different times, one per time zone group).
+- ? (TBA): Final challenge. Several scenarios. Window of 4 hours (starting at three different times, one per time zone group).
+
 ## Mechanics, Rules & Miscellaneous Info
 
 ### Rules
@@ -58,7 +66,7 @@ Also:
 ### Event Days and Times
 
 Competition will be done in two different weekends (dates To Be Announced):
-- One day for a "qualifier" event (one scenario)
+- One day for a "qualifier" event (one scenario). No ranking or cut-off, it's pass/fail.
 - Another "finals" day for those who pass the qualifier phase, consisting of several scenarios. The final scenarios can be done in any order (ie you don't have to pass one to access another). I'll order them by (my perceived) difficulty: easier to harder.
 
 During both those days there will be three four-hour windows of time to participate, one interval per each of the three time zone groups: Asia-Pacific (UTC+4 to UTC+12), Africa-Europe (UTC-3 to UTC+4), Americas (UTC-11 to UTC-3).
@@ -134,15 +142,6 @@ Some programming skills (using a shell script or a popular programming language 
 It's not possible to list the Linux components or tools that can show up in the challenges but popular Open Source implementations of key services like web servers, proxy servers, databases (relational or not) and message brokers are fair game.
 
 Containerization (Docker) is an important technology that may be included. Kubernetes is out of scope for this competition. 
-
-
-## Timeline
-
-- Until 2023-07-31: Deadline to <a href="https://linuxworldcup.com/">sign up for LWC</a>
-- Until 2023-08-13: (If your email in the LWC form is not a SadServers account): Deadline to create an account in SadServers with the same email.
-- Until ? (TBA): Deadline to optionally update your LWC information in SadServers, namely "alias" (public information to show in rankings, like handle, name or email), "time zone" and "team name".
-- ? (TBA) Qualifier challenge: One not-so-hard scenario to pass in order to qualify for the final scenarios. Window of 4 hours (starting at three different times, one per time zone group).
-- ? (TBA): Final challenge. Several scenarios. Window of 4 hours (starting at three different times, one per time zone group).
 
 
 ## Code of Conduct
