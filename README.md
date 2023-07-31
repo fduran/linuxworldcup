@@ -36,31 +36,6 @@ It's free. (I'll be happy if you <a href="https://www.buymeacoffee.com/sadserver
 
 There are no guaranteed material prizes.
 
-## Code of Conduct
-
-I really want to run a nice and fair event.
-
-1. **Be Kind**. AKA don't be a jerk towards other participants or organizers. 
-
-2. **Don't Cheat**. Hard to define all the possibilities but as rules:
-- One person per account (registered email in SadServers).
-- Do not share any information about the scenarios until after the event is over in all timezones.
-- Do not try to manipulate or bypass the services working in the VMs that are needed for the  overall functioning of the system and which are not related to the challenge to solve, like the solution checking agent or a command history logging agent.
-
-## Expectations and Disclaimers
-
-TL;DR "Expect nothing" :-)
-
-LWC and SadServers is run (and financed!) by just this guy (well, I've had help in creating some of the scenarios). I'll try my best but I can always make mistakes (there's a couple issues already in SadSevers scenarios for example). I may have forgotten an "obvious" rule or explanation here and they may change before the competition.
-
-There's also the technical things that can go wrong, like network delays or issues in AWS.
-
-A special pain point is the "Check Solution" script, which may not be perfect and have false positives and false negatives. I may review logs and decide to override the script output and yes this can be subjective.
-
-While the event is running, if there's any system-wide issue or any important notification, I'll use the <a href="https://twitter.com/sadservers_com">SadServers Twitter</a> (erm, X) account. I may not be awake or available at times during the competition; in principle it should run automatically without any manual intervention.
-
-The SLA or QoS of this is "best effort".
-
 ## Mechanics, Rules & Miscellaneous Info
 
 ### Rules
@@ -97,7 +72,7 @@ Asia-Pacific
 
 Examples of local times:  
 New Dheli 5:30 am - 9:30 am  
-Beijing: 8 am - 12 noon
+Beijing: 8 am - 12 noon  
 Tokyo : 9 am - 1 pm  
 Sydney: 10 am - 2 pm  
   
@@ -168,6 +143,33 @@ Containerization (Docker) is an important technology that may be included. Kuber
 - Until ? (TBA): Deadline to optionally update your LWC information in SadServers, namely "alias" (public information to show in rankings, like handle, name or email), "time zone" and "team name".
 - ? (TBA) Qualifier challenge: One not-so-hard scenario to pass in order to qualify for the final scenarios. Window of 4 hours (starting at three different times, one per time zone group).
 - ? (TBA): Final challenge. Several scenarios. Window of 4 hours (starting at three different times, one per time zone group).
+
+
+## Code of Conduct
+
+I really want to run a nice and fair event.
+
+1. **Be Kind**. AKA don't be a jerk towards other participants or organizers. 
+
+2. **Don't Cheat**. Hard to define all the possibilities but as rules:
+- One person per account (registered email in SadServers).
+- Do not share any information about the scenarios until after the event is over in all timezones.
+- Do not try to manipulate or bypass the services working in the VMs that are needed for the  overall functioning of the system and which are not related to the challenge to solve, like the solution checking agent or a command history logging agent.
+
+## Expectations and Disclaimers
+
+TL;DR "Expect nothing" :-)
+
+LWC and SadServers is run (and financed!) by just this guy (well, I've had help in creating some of the scenarios). I'll try my best but I can always make mistakes (there's a couple issues already in SadSevers scenarios for example). I may have forgotten an "obvious" rule or explanation here and they may change before the competition.
+
+There's also the technical things that can go wrong, like network delays or issues in AWS.
+
+A special pain point is the "Check Solution" script, which may not be perfect and have false positives and false negatives. I may review logs and decide to override the script output and yes this can be subjective.
+
+While the event is running, if there's any system-wide issue or any important notification, I'll use the <a href="https://twitter.com/sadservers_com">SadServers Twitter</a> (erm, X) account. I may not be available at times during the competition; in principle it should run automatically without any manual intervention.
+
+The SLA or QoS of this is "best effort".
+
 
 ## Questions
 
