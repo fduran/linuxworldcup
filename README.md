@@ -20,13 +20,13 @@ Open to anyone with Internet and a browser.
 
 ### When
 
-TBD but aiming at August or September 2023. See Timeline section at the bottom.
+The "Qualifier" will be held <b>Sunday September 24, 2023</b>.  
+The "Finals" will be on <b>Sunday, October 1st 2023</b>.
 
 ### How
 
 <a href="https://sadservers.com/">SadServers.com</a> will be the platform that manages the challenges. See the "Mechanics" section below for details. 
 
-Information like rankings may be posted at <a href="https://linuxworldcup.com/">Linux World Cup</a>.
 
 ### How Much
 
@@ -38,11 +38,11 @@ There are no guaranteed material prizes.
 
 ## Timeline
 
-- Until 2023-07-31: Deadline to <a href="https://linuxworldcup.com/">sign up for LWC</a>
-- Until 2023-08-13: (If your email in the LWC form is not a SadServers account): Deadline to create an account in SadServers with the same email.
-- Until ? (TBA): Deadline to optionally update your LWC information in SadServers, namely "alias" (public information to show in rankings, like handle, name or email), "time zone" and "team name".
-- ? (TBA) Qualifier challenge: One not-so-hard scenario to pass in order to qualify for the final scenarios. Window of 4 hours (starting at three different times, one per time zone group).
-- ? (TBA): Final challenge. Several scenarios. Window of 4 hours (starting at three different times, one per time zone group).
+- ~~Until 2023-07-31: Deadline to <a href="https://linuxworldcup.com/">sign up for LWC</a>~~
+- Until ~~2023-08-13~~ 2023-09-22: (If your email in the LWC form is not a SadServers account): Deadline to create an account in SadServers with the same email.
+- Until 2023-09-23: Deadline to optionally update your LWC information in SadServers, namely "alias" (public information to show in rankings, like handle, name or email), "time zone" and "team name".
+- 2023-09-24 Qualifier challenge: One easy scenario to pass in order to qualify for the final scenarios. Window of 4 hours (starting at three different times, one per time zone group).
+- 2023-10-01: Final challenge. Several scenarios. Window of 4 hours (starting at three different times, one per time zone group).
 
 ## Mechanics, Rules & Miscellaneous Info
 
@@ -61,21 +61,22 @@ In general the scenarios and VMs will behave the same as any other SadServer sce
 - Rate limiting is disabled for the event participant.
 
 Also:
-- There will be no "clues" provided for competition scenarios (there may be tips but they would be in the description, not under the "Next Clue / Solution" button).
+- There may be no "clues" provided for competition scenarios (there may be tips but they would be in the description, not under the "Next Clue / Solution" button).  
+- Scenarios will tend not to have root (sudo) access.  
 
 ### Event Days and Times
 
-Competition will be done in two different weekends (dates To Be Announced):
+Competition will be done in two different Sundays:
 - One day for a "qualifier" event (one scenario). No ranking or cut-off, it's pass/fail.
 - Another "finals" day for those who pass the qualifier phase, consisting of several scenarios. The final scenarios can be done in any order (ie you don't have to pass one to access another). I'll order them by (my perceived) difficulty: easier to harder.
 
 During both those days there will be three four-hour windows of time to participate, one interval per each of the three time zone groups: Asia-Pacific (UTC+4 to UTC+12), Africa-Europe (UTC-3 to UTC+4), Americas (UTC-11 to UTC-3).
 
-People on Asia-Pacific times will compete on a Saturday and the rest of the world on the following Sunday (next day). People in some locales may find more convenient to use a different time zone area than the continet suggested, for ex in Pakistan or India you can pick early Saturday or late Sunday, or in a Pacific island you can choose Saturday afternoon or Sunday morning.
+People on all time zones will compete on the same date on a Sunday. People in some locales may find more convenient to use a different time zone area than the continet suggested.
 
 Please remember you can only use one time zone area and it must be declared in your SadServers LWC account page.
 
-<b>Saturday from 00:00 UTC to 04:00 UTC</b>   
+<b>Sunday from 00:00 UTC to 04:00 UTC</b>   
 Asia-Pacific
 
 Examples of local times:  
@@ -92,7 +93,6 @@ Examples of local times:
 Dakar: 3 pm - 7 pm  
 Berlin: 5 pm - 9 pm  
 Kyiv: 6 pm - 10 pm  
-New Dheli: 8:30 pm - 00:30 pm  
   
   
 <b>Sunday from 20:00 UTC to 00:00 UTC</b>  
@@ -101,7 +101,7 @@ Americas
 Examples of local times:  
 Rio: 5 pm - 9 pm  
 New York: 4 pm - 8 pm  
-Vancouver: 1 pm - 5 pm
+Vancouver: 1 pm - 5 pm  
 Honolulu: 10 am - 2 pm  
 
 
