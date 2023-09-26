@@ -152,7 +152,9 @@ I really want to run a nice and fair event.
 
 2. **Don't Cheat**. Hard to define all the possibilities but as rules:
 - One person per account (registered email in SadServers).
-- Do not share any information about the scenarios until after the event is over in all timezones.
+- <b>If you are competing in a team with other people, all members need to have their team name in their SadServers LWC profile</b>. Otherwise I cannot correlate users and teams. Only one member of the team needs to solve the scenario; there's no need for the other members to enter a solution.
+- Related to the above, scenarios where the solution is entered directly or out of nowhere without previous steps to support it, will be void (invalid).
+- Do not share any information about the scenarios until after the event is over in all timezones. 
 - Do not try to manipulate or bypass the services working in the VMs that are needed for the  overall functioning of the system and which are not related to the challenge to solve, like the solution checking agent or a command history logging agent.
 
 ## Expectations and Disclaimers
