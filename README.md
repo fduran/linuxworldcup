@@ -176,6 +176,41 @@ The SLA or QoS of this is "best effort".
 
 Open an Issue here if you think it's useful for other people or contact me (info@sadservers.com for ex) if it's more individual.
 
+### Q1
+
+```
+Hi,
+
+I'd like some clarification on the finals for the LWC.
+
+I noticed on github that you mentioned "only one member of the team needs to solve the scenario".
+
+Will there be separate scenarios for both the individual and team events? If not, how would the individual events work if others in the team have already solved it? How will you take into account the fact that teams can be in multiple time zones?
+```
+
+Reply:
+
+```
+Hello,
+ 
+Thanks for asking, I may clarify further in the Github repo.
+ 
+I assume teams are working together as a unit; they can tell each other what they've found working in their scenarios or they may be doing the scenario together (screensharing or in the same room). I assume all information is shared at any time in full collaboration. The mechanisms don't matter and where they are or what people on the team are doing are not relevant.
+ 
+The only thing that matters is the shortest time to first fully complete the scenario (shortest time in a hard scenario may include two sessions for example). One team member entering the solution as a shortcut when somebody else on the team has solved it doesn't count.
+ 
+To respond more specifically, the scenarios are the same for both teams and members. As said in the repo, there are two "tracks" or separate competitions; one for individuals and one for teams, same as running (swimming/rowing) individual 400 meters or a team of 4 running 4x100 meters; same distance but teams win as one and all members are recognized.
+ 
+I did not take into account that members of the same team can be in different time zones :-( but it seems to me that the best tor simplest thing to do in the future is to not allow it. It would be like running the 4x100 event but with 4 separate 100m races and pooling the results, it kind of defeats the "team" idea of working in collaboration. In our current situation if that happens, I'll allow it but will still go with the "shortest time to first fully complete the scenario" metric.
+ 
+Let me know if there's still ambiguity.
+ 
+Stepping back, with only one pair of eyes, it's difficult to figure out and predict edge cases and the way to go is to learn from mistakes for next editions of the competition and to have people participating as volunteers to help.
+ 
+Thanks,
+Fernando
+```
+
 
 
 
