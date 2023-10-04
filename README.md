@@ -2,7 +2,7 @@
 
 v1.0
 
-Linux World Cup (LWC) first edition: 2023.
+Linux World Cup (LWC) first edition: 2023 is done, see [ranking](https://sadservers.com/ranking_lwc)
 
 ## Main Questions
 
@@ -20,8 +20,8 @@ Open to anyone with Internet and a browser.
 
 ### When
 
-The "Qualifier" will be held <b>Sunday September 24, 2023</b>.  
-The "Finals" will be on <b>Sunday, October 1st 2023</b>.
+The "Qualifier" for the first edition was held <b>Sunday September 24, 2023</b>.  
+The "Finals" for the first edition was <b>Sunday, October 1st 2023</b>.
 
 ### How
 
@@ -38,11 +38,7 @@ There are no guaranteed material prizes.
 
 ## Timeline
 
-- ~~Until 2023-07-31: Deadline to <a href="https://linuxworldcup.com/">sign up for LWC</a>~~
-- Until ~~2023-08-13~~ 2023-09-22: (If your email in the LWC form is not a SadServers account): Deadline to create an account in SadServers with the same email.
-- Until 2023-09-23: Deadline to optionally update your LWC information in SadServers, namely "alias" (public information to show in rankings, like handle, name or email), "time zone" and "team name".
-- 2023-09-24 Qualifier challenge: One easy scenario to pass in order to qualify for the final scenarios. Window of 4 hours (starting at three different times, one per time zone group).
-- 2023-10-01: Final challenge. Several scenarios. Window of 4 hours (starting at three different times, one per time zone group).
+Next: announcing the Second edition of the Linux World Cup for 2024.
 
 ## Mechanics, Rules & Miscellaneous Info
 
@@ -52,7 +48,9 @@ There are no guaranteed material prizes.
 
 - There's a deadline before the competition starts (see Timeline section below) to change your timezone. Participants must be in their declared timezone and use the corresponding competition times for it.
 
-- Please do not delete or try to delete your shell command history. Command history is not private information and may be publicly disclosed.
+- Please do not delete or try to delete your shell command history. Command history is not private information and may be publicly disclosed.  
+
+- Competitors can use any information at their disposal, including AI tools like ChatGPT and similar, as long as it is individual work (other people helping is not allowed).
 
 ### Difference with SadServers
 
@@ -65,6 +63,8 @@ Also:
 - Scenarios will tend not to have root (sudo) access.  
 
 ### Event Days and Times
+
+(This may change in future editions).  
 
 Competition will be done in two different Sundays:
 - One day for a "qualifier" event (one scenario). No ranking or cut-off, it's pass/fail.
@@ -110,6 +110,8 @@ Participants can try the challenges at any time during their window; there's no 
 
 
 ### Teams
+
+(This may change in future editions).  
 
 I wasn't sure how to do or organize teams when I created the sign up form; if maybe people were interested in pairing up with other people/teams they didn't know. Also I forgot to put a limit to the number of people in a team, and now we may have some large teams which doesn't seem totally fair. Anyways, my bad, for this event I simplified everything and at the end people are either in a team they put in the form or not. If there's only one person with a team name, that's fine, it's an individual participant.
 
@@ -206,11 +208,4 @@ Stepping back, with only one pair of eyes, it's difficult to figure out and pred
  
 Thanks,
 Fernando
-
-
-
-
-
-
-
 
